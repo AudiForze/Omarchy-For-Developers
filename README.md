@@ -1,6 +1,6 @@
 # 🐧 Omarchy Setup Guide
 
-> **Omarchy** is a pre-configured Arch Linux distribution built around **Hyprland** (a Wayland compositor), designed for developers who value tiling window management, keyboard-driven workflows, and a minimal-yet-powerful environment.
+> **Omarchy** is a pre-configured Arch Linux distribution developed by DHH, based on **Hyprland** (a Wayland compositor), designed for developers who value tiled window management, keyboard-controlled workflows, and a minimalist yet powerful environment.
 
 This guide covers the complete setup from installation to daily customization, plus a dedicated **Developers** section with a modern Python development stack.
 
